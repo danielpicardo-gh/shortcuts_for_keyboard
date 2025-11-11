@@ -15,7 +15,7 @@ What I did:
 I added footprints to the project and customised the PCB editor
 <img width="1088" height="728" alt="Screenshot 2025-11-08 141314" src="https://github.com/user-attachments/assets/8b57e242-722e-484a-8db5-be53912da2e6" />
 
-## Pathfinder Session 4 - [20 minutes]
+## Pathfinder Session 4 - [30 minutes]
 What I did:
 I edited the schematic and PCB editor for my project. I also added 3d models
 <img width="650" height="400" alt="Screenshot 2025-11-11 204935" src="https://github.com/user-attachments/assets/6b6bc045-f85d-4c47-baba-6449e0bf19eb" />
