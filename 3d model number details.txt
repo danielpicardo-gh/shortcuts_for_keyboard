@@ -1,0 +1,16 @@
+switch
+rotation
+x-90
+z-180
+offset
+x-4.86
+y-2.3
+z-6
+
+keycap
+rotation
+x-90
+offset
+x=-2.5
+y=-5
+z=11s
