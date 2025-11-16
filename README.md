@@ -1,4 +1,4 @@
-# shortcuts_for_keyboard (macropad)
+# QuickPad (a macropad)
 a couple of useful shortcuts for a keyboard like copy and paste
 
 ## Pathfinder Session 1 - [40 minutes]
